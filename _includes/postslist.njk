@@ -8,6 +8,8 @@
         {% set tagUrl %}/tags/{{ tag | slug }}/{% endset %}
         <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
       {% endfor %} #}
+      {# <img class="postlist-cover" src="{{ post.data.cover }}"/>
+      {{ post.data.cover }} foo #}
     </p>
   </li>
 {% endfor %}

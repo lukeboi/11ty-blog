@@ -258,6 +258,10 @@ header {
   /*font-size: 1.1875em; /* 19px /16 */
   font-weight: 700;
 }
+.postlist-cover {
+  width: auto;
+  max-height: 200px;
+}
 
 
 /* Tags */

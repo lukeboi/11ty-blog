@@ -19,8 +19,8 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   eleventyConfig.addFilter("readableDate", dateObj => {
-    console.log(dateObj);
-    console.log("FOOOOOOOOOOOOOOOOOOO");
+    // console.log(dateObj);
+    // console.log("FOOOOOOOOOOOOOOOOOOO");
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("LLL dd yyyy");
   });
 
