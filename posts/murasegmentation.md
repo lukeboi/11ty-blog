@@ -1,5 +1,5 @@
 ---
-title: Mura Segmentation
+title: Mura Segmentation Project
 description: MyLink is an app and website that serves as a database of all charitable organizations in Lincoln, NE.
 date: 2021-01-05
 tags:
