@@ -21,7 +21,7 @@ The earliest prototypes used an Arduino to the control the guitars, all wired to
 
 Each PCB on the guitar will be using firmwhere I wrote, which inclues a custom implmentation of the MIDI serial protocol, allowing it to be controlled by other MIDI-compatable tools. 
 
-![Altium PCB design screenshot](/img/Altium-Guitar-Screenshot-1.png)
+![Altium PCB design screenshot](/img/altium.png)
 Above: The PCBs in Altium, a popular electronics design tool.
 
 ![Parts on the laser cutter](/img/laser-cutting-guitars-1.jpg)
