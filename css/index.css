@@ -223,10 +223,17 @@ header {
 }
 .postlist-item {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: none;
   align-items: baseline;
   counter-increment: start-from -1;
   /* line-height: 1.8; */
+  /* overflow-x: scroll; */
+  text-overflow: ellipsis;
+  overflow: none;
+  height: 50px;
+  /* overflow: hidden; */
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .postlist-item:before {
   display: inline-block;
@@ -243,6 +250,7 @@ header {
 }
 .postlist-date {
   word-spacing: -0.5px;
+  
 }
 .postlist-link {
   padding-left: .25em;
