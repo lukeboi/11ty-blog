@@ -25,7 +25,7 @@ All the online appearances of the art exhibition "Soundtracks for the Present Fu
 
 # Videos - On Exhibition:
 
-[Satyagraha at The Everson](https://youtu.be/zphHwEKa_fo) __<— my personal favorite!__
+[Satyagraha at The Everson](https://youtu.be/I92sUfuS8C8) __<— my personal favorite!__
 
 [Paul Barnes Performance at Bemis (with Charley/Luke/Paul/Rachel interview)](https://vimeo.com/568538356)
 
